@@ -1,0 +1,73 @@
+
+
+ejemplo2 = """
+for i in range(n):
+    for j in range(n):
+        print(i * j)
+"""
+ejemplo3 = """
+def suma_binaria(n):
+    while n > 0:
+        print(n)
+        n = n // 2"""
+ejemplo4 = """
+def obtener_primero(arr):
+    return arr[0]"""
+ejemplo5 = """
+def merge_sort(arr):
+    if len(arr) > 1:
+        mid = len(arr) // 2
+        L = arr[:mid]
+        R = arr[mid:]
+        merge_sort(L)
+        merge_sort(R)
+        i = j = k = 0
+        while i < len(L) and j < len(R):
+            if L[i] < R[j]:
+                arr[k] = L[i]
+                i += 1
+            else:
+                arr[k] = R[j]
+                j += 1
+            k += 1
+        while i < len(L):
+            arr[k] = L[i]
+            i += 1
+            k += 1
+        while j < len(R):
+            arr[k] = R[j]
+            j += 1
+            k += 1
+"""
+ejemplo6 = """
+for i in range(n):
+    for j in range(n):
+        for d in range(n):
+            print(i, j, d)
+
+"""
+ejemplo7 = """
+def quick_sort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left   = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right  = [x for x in arr if x > pivot]
+    return quick_sort(left) + middle + quick_sort(right)
+"""
+ejemplo8 = """
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+"""
+ejemplo9 = """
+def imprimir_pares_matriz(n):
+    for i in range(n):
+        for j in range(n):
+            if (i + j) % 2 == 0:
+                print(i, j)"""
+#print("Código:", ejemplo5)
+print("Predicción:", predecir_complejidad(ejemplo8))
