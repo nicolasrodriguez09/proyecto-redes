@@ -10,7 +10,7 @@ def main():
         print("4. Simular operaciones de cola (Red 4)")
         print("5. Salir")
 
-        opcion = input("Selecciona una opción (1-4): ")
+        opcion = input("Selecciona una opción (1-5): ")
 
         if opcion == '1':
             subprocess.run(["python", "red_1.py"])
