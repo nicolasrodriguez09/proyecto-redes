@@ -1,2487 +1,3474 @@
 code,O,Omega,Theta
-umb = 507,O(1),O(1),O(1)
-cfy = 646,O(1),O(1),O(1)
-tih = 984,O(1),O(1),O(1)
-cvl = 553,O(1),O(1),O(1)
-ash = 574,O(1),O(1),O(1)
-ooi = 191,O(1),O(1),O(1)
-nlj = 412,O(1),O(1),O(1)
-tew = 1000,O(1),O(1),O(1)
-fov = 284,O(1),O(1),O(1)
-rwq = 630,O(1),O(1),O(1)
-fdr = 396,O(1),O(1),O(1)
-kfd = 947,O(1),O(1),O(1)
-qjo = 837,O(1),O(1),O(1)
-gtp = 230,O(1),O(1),O(1)
-xyk = 304,O(1),O(1),O(1)
-wbd = 232,O(1),O(1),O(1)
-dqo = 759,O(1),O(1),O(1)
-uhm = 387,O(1),O(1),O(1)
-qco = 565,O(1),O(1),O(1)
-epi = 877,O(1),O(1),O(1)
-ufg = 517,O(1),O(1),O(1)
-jpg = 457,O(1),O(1),O(1)
-hre = 199,O(1),O(1),O(1)
-ovt = 944,O(1),O(1),O(1)
-tul = 432,O(1),O(1),O(1)
-pnd = 980,O(1),O(1),O(1)
-hec = 972,O(1),O(1),O(1)
-zfv = 690,O(1),O(1),O(1)
-tov = 98,O(1),O(1),O(1)
-abo = 707,O(1),O(1),O(1)
-vfi = 654,O(1),O(1),O(1)
-gzy = 405,O(1),O(1),O(1)
-sfy = 427,O(1),O(1),O(1)
-doc = 814,O(1),O(1),O(1)
-luw = 748,O(1),O(1),O(1)
-uqr = 729,O(1),O(1),O(1)
-jsn = 178,O(1),O(1),O(1)
-apq = 5,O(1),O(1),O(1)
-mgq = 115,O(1),O(1),O(1)
-nrk = 433,O(1),O(1),O(1)
-unb = 791,O(1),O(1),O(1)
-ons = 462,O(1),O(1),O(1)
-gir = 467,O(1),O(1),O(1)
-hwe = 340,O(1),O(1),O(1)
-wva = 662,O(1),O(1),O(1)
-lvh = 184,O(1),O(1),O(1)
-svi = 824,O(1),O(1),O(1)
-rrh = 159,O(1),O(1),O(1)
-xyv = 596,O(1),O(1),O(1)
-qnq = 438,O(1),O(1),O(1)
-egu = 661,O(1),O(1),O(1)
-krz = 432,O(1),O(1),O(1)
-xrt = 835,O(1),O(1),O(1)
-ygn = 387,O(1),O(1),O(1)
-axf = 101,O(1),O(1),O(1)
-xle = 560,O(1),O(1),O(1)
-wkg = 349,O(1),O(1),O(1)
-kym = 225,O(1),O(1),O(1)
-ggf = 464,O(1),O(1),O(1)
-mgg = 593,O(1),O(1),O(1)
-bat = 473,O(1),O(1),O(1)
-sdt = 951,O(1),O(1),O(1)
-ckq = 2,O(1),O(1),O(1)
-gdq = 286,O(1),O(1),O(1)
-zog = 324,O(1),O(1),O(1)
-aub = 53,O(1),O(1),O(1)
-ryc = 170,O(1),O(1),O(1)
-dzn = 553,O(1),O(1),O(1)
-nbp = 953,O(1),O(1),O(1)
-ego = 406,O(1),O(1),O(1)
-fjk = 189,O(1),O(1),O(1)
-nyy = 476,O(1),O(1),O(1)
-mbs = 26,O(1),O(1),O(1)
-xen = 486,O(1),O(1),O(1)
-byd = 536,O(1),O(1),O(1)
-jkv = 221,O(1),O(1),O(1)
-alz = 224,O(1),O(1),O(1)
-hvd = 330,O(1),O(1),O(1)
-cys = 957,O(1),O(1),O(1)
-oyc = 437,O(1),O(1),O(1)
-niv = 886,O(1),O(1),O(1)
-xvf = 97,O(1),O(1),O(1)
-hlp = 635,O(1),O(1),O(1)
-uje = 947,O(1),O(1),O(1)
-zsk = 917,O(1),O(1),O(1)
-tct = 491,O(1),O(1),O(1)
-czs = 498,O(1),O(1),O(1)
-zdw = 127,O(1),O(1),O(1)
-rlz = 410,O(1),O(1),O(1)
-htf = 369,O(1),O(1),O(1)
-gbd = 970,O(1),O(1),O(1)
-qxn = 538,O(1),O(1),O(1)
-bcz = 874,O(1),O(1),O(1)
-jca = 272,O(1),O(1),O(1)
-ouw = 944,O(1),O(1),O(1)
-gsm = 988,O(1),O(1),O(1)
-grz = 271,O(1),O(1),O(1)
-vad = 559,O(1),O(1),O(1)
-wbn = 914,O(1),O(1),O(1)
-wbc = 636,O(1),O(1),O(1)
-"for azy in range(n):
-    print(azy)",O(n),O(n),O(n)
-"for wjv in range(n):
-    print(wjv**2)",O(n),O(n),O(n)
-"for wtr in range(n):
-    print(wtr*2)",O(n),O(n),O(n)
-"for qpa in range(n):
-    print(qpa**2)",O(n),O(n),O(n)
-"for ejf in range(n):
-    print(ejf)",O(n),O(n),O(n)
-"for fsd in range(n):
-    print(fsd)",O(n),O(n),O(n)
-"for dzt in range(n):
-    print(dzt**2)",O(n),O(n),O(n)
-"for lut in range(n):
-    print(lut)",O(n),O(n),O(n)
-"for xhi in range(n):
-    print(xhi)",O(n),O(n),O(n)
-"for krd in range(n):
-    print(krd**2)",O(n),O(n),O(n)
-"for awz in range(n):
-    print(awz)",O(n),O(n),O(n)
-"for wsq in range(n):
-    print(wsq**2)",O(n),O(n),O(n)
-"for fzx in range(n):
-    print(fzx*2)",O(n),O(n),O(n)
-"for vch in range(n):
-    print(vch*2)",O(n),O(n),O(n)
-"for rfz in range(n):
-    print(rfz**2)",O(n),O(n),O(n)
-"for awf in range(n):
-    print(awf**2)",O(n),O(n),O(n)
-"for kok in range(n):
-    print(kok**2)",O(n),O(n),O(n)
-"for juv in range(n):
-    print(juv)",O(n),O(n),O(n)
-"for sss in range(n):
-    print(sss)",O(n),O(n),O(n)
-"for onj in range(n):
-    print(onj**2)",O(n),O(n),O(n)
-"for lhg in range(n):
-    print(lhg**2)",O(n),O(n),O(n)
-"for bnx in range(n):
-    print(bnx)",O(n),O(n),O(n)
-"for rml in range(n):
-    print(rml*2)",O(n),O(n),O(n)
-"for sie in range(n):
-    print(sie**2)",O(n),O(n),O(n)
-"for cmj in range(n):
-    print(cmj)",O(n),O(n),O(n)
-"for axh in range(n):
-    print(axh*2)",O(n),O(n),O(n)
-"for bzq in range(n):
-    print(bzq**2)",O(n),O(n),O(n)
-"for ree in range(n):
-    print(ree)",O(n),O(n),O(n)
-"for wug in range(n):
-    print(wug**2)",O(n),O(n),O(n)
-"for ild in range(n):
-    print(ild**2)",O(n),O(n),O(n)
-"for lpn in range(n):
-    print(lpn*2)",O(n),O(n),O(n)
-"for rwd in range(n):
-    print(rwd**2)",O(n),O(n),O(n)
-"for zzy in range(n):
-    print(zzy**2)",O(n),O(n),O(n)
-"for rqm in range(n):
-    print(rqm)",O(n),O(n),O(n)
-"for lsp in range(n):
-    print(lsp)",O(n),O(n),O(n)
-"for ras in range(n):
-    print(ras**2)",O(n),O(n),O(n)
-"for gxj in range(n):
-    print(gxj**2)",O(n),O(n),O(n)
-"for phy in range(n):
-    print(phy**2)",O(n),O(n),O(n)
-"for xqv in range(n):
-    print(xqv)",O(n),O(n),O(n)
-"for rum in range(n):
-    print(rum)",O(n),O(n),O(n)
-"for gvk in range(n):
-    print(gvk*2)",O(n),O(n),O(n)
-"for jpe in range(n):
-    print(jpe)",O(n),O(n),O(n)
-"for slv in range(n):
-    print(slv*2)",O(n),O(n),O(n)
-"for cyg in range(n):
-    print(cyg*2)",O(n),O(n),O(n)
-"for bet in range(n):
-    print(bet**2)",O(n),O(n),O(n)
-"for hye in range(n):
-    print(hye*2)",O(n),O(n),O(n)
-"for aob in range(n):
-    print(aob**2)",O(n),O(n),O(n)
-"for iiv in range(n):
-    print(iiv**2)",O(n),O(n),O(n)
-"for tcs in range(n):
-    print(tcs)",O(n),O(n),O(n)
-"for wtn in range(n):
-    print(wtn*2)",O(n),O(n),O(n)
-"for ucd in range(n):
-    print(ucd)",O(n),O(n),O(n)
-"for mrx in range(n):
-    print(mrx)",O(n),O(n),O(n)
-"for sxm in range(n):
-    print(sxm*2)",O(n),O(n),O(n)
-"for yaz in range(n):
-    print(yaz*2)",O(n),O(n),O(n)
-"for mfu in range(n):
-    print(mfu)",O(n),O(n),O(n)
-"for gtw in range(n):
-    print(gtw*2)",O(n),O(n),O(n)
-"for ybm in range(n):
-    print(ybm*2)",O(n),O(n),O(n)
-"for gua in range(n):
-    print(gua*2)",O(n),O(n),O(n)
-"for xpu in range(n):
-    print(xpu)",O(n),O(n),O(n)
-"for mhs in range(n):
-    print(mhs**2)",O(n),O(n),O(n)
-"for wan in range(n):
-    print(wan**2)",O(n),O(n),O(n)
-"for hys in range(n):
-    print(hys*2)",O(n),O(n),O(n)
-"for ott in range(n):
-    print(ott)",O(n),O(n),O(n)
-"for wkl in range(n):
-    print(wkl)",O(n),O(n),O(n)
-"for hst in range(n):
-    print(hst*2)",O(n),O(n),O(n)
-"for pac in range(n):
-    print(pac*2)",O(n),O(n),O(n)
-"for sam in range(n):
-    print(sam**2)",O(n),O(n),O(n)
-"for ktn in range(n):
-    print(ktn**2)",O(n),O(n),O(n)
-"for rol in range(n):
-    print(rol)",O(n),O(n),O(n)
-"for gte in range(n):
-    print(gte*2)",O(n),O(n),O(n)
-"for pgf in range(n):
-    print(pgf**2)",O(n),O(n),O(n)
-"for hgp in range(n):
-    print(hgp)",O(n),O(n),O(n)
-"for are in range(n):
-    print(are)",O(n),O(n),O(n)
-"for cis in range(n):
-    print(cis)",O(n),O(n),O(n)
-"for hjm in range(n):
-    print(hjm**2)",O(n),O(n),O(n)
-"for oaf in range(n):
-    print(oaf*2)",O(n),O(n),O(n)
-"for wns in range(n):
-    print(wns**2)",O(n),O(n),O(n)
-"for vzi in range(n):
-    print(vzi*2)",O(n),O(n),O(n)
-"for ckg in range(n):
-    print(ckg*2)",O(n),O(n),O(n)
-"for eod in range(n):
-    print(eod**2)",O(n),O(n),O(n)
-"for fds in range(n):
-    print(fds)",O(n),O(n),O(n)
-"for ibi in range(n):
-    print(ibi**2)",O(n),O(n),O(n)
-"for ylh in range(n):
-    print(ylh**2)",O(n),O(n),O(n)
-"for gws in range(n):
-    print(gws**2)",O(n),O(n),O(n)
-"for rvx in range(n):
-    print(rvx**2)",O(n),O(n),O(n)
-"for skq in range(n):
-    print(skq*2)",O(n),O(n),O(n)
-"for hzv in range(n):
-    print(hzv*2)",O(n),O(n),O(n)
-"for zss in range(n):
-    print(zss)",O(n),O(n),O(n)
-"for jby in range(n):
-    print(jby**2)",O(n),O(n),O(n)
-"for qxi in range(n):
-    print(qxi**2)",O(n),O(n),O(n)
-"for gly in range(n):
-    print(gly)",O(n),O(n),O(n)
-"for xyp in range(n):
-    print(xyp**2)",O(n),O(n),O(n)
-"for fxm in range(n):
-    print(fxm**2)",O(n),O(n),O(n)
-"for waf in range(n):
-    print(waf*2)",O(n),O(n),O(n)
-"for scn in range(n):
-    print(scn)",O(n),O(n),O(n)
-"for gya in range(n):
-    print(gya**2)",O(n),O(n),O(n)
-"for ivc in range(n):
-    print(ivc**2)",O(n),O(n),O(n)
-"for nyg in range(n):
-    print(nyg)",O(n),O(n),O(n)
-"for skd in range(n):
-    print(skd)",O(n),O(n),O(n)
-"for ctv in range(n):
-    print(ctv)",O(n),O(n),O(n)
-"def log_div_rbkd(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qnuj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_kbvb(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qvpm(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_uzbr(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_buym(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_orxy(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_jqta(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_nzay(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_upbb(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_oucy(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_mpau(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_gqxg(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ngoi(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_alob(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_myvq(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_dqqh(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_wquy(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_rost(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_nojv(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_pofj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_njjr(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ikdd(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_wjiu(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qjls(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_txyv(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ssvs(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ikip(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_gvvz(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qniu(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_nwlb(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_sgrw(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qsuj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_igyd(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_brbw(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ytou(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_dtnx(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_cauv(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_nusk(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_oirt(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_fbvu(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_iyuv(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_vryy(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_mksi(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qtxj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_sxib(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_kpwi(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_miqa(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_gknz(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_yxzk(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ldcg(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_fnet(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_tipk(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_bqrk(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_okop(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ijax(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ciuq(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_cdmu(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ivsx(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_zloq(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_lfsk(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_uxoe(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_psza(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_tzsw(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ldec(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_eopp(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_tzsw(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_rvod(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ffah(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_hynm(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_tnwh(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_bubi(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_kotu(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ceci(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_orke(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_zbau(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_hrpb(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_acvx(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_yswe(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ktrx(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_nznf(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_erlz(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ypdu(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_wvtl(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_pcnj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_xhir(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ahtf(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_fedb(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_nmif(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_vvsy(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ihad(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_tzbl(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_ijpj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_iftj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_uzck(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_durj(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_bwxd(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_irxw(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qiod(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"def log_div_qlgw(n):
-    while n > 1:
-        n = n // 2
-    return n",O(log n),O(log n),O(log n)
-"import heapq
-ybc_list = [i for i in range(n)]
-heapq.heapify(ybc_list)
-while ybc_list:
-    heapq.heappop(ybc_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_1(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-kyr_list = [i for i in range(n)]
-heapq.heapify(kyr_list)
-while kyr_list:
-    heapq.heappop(kyr_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_3(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_4(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-whv_list = [i for i in range(n)]
-heapq.heapify(whv_list)
-while whv_list:
-    heapq.heappop(whv_list)",O(n log n),O(n),O(n log n)
-"import heapq
-yyo_list = [i for i in range(n)]
-heapq.heapify(yyo_list)
-while yyo_list:
-    heapq.heappop(yyo_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_7(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_8(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_9(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-ceq_list = [i for i in range(n)]
-heapq.heapify(ceq_list)
-while ceq_list:
-    heapq.heappop(ceq_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_11(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_12(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_13(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-pjn_list = [i for i in range(n)]
-heapq.heapify(pjn_list)
-while pjn_list:
-    heapq.heappop(pjn_list)",O(n log n),O(n),O(n log n)
-"import heapq
-nwo_list = [i for i in range(n)]
-heapq.heapify(nwo_list)
-while nwo_list:
-    heapq.heappop(nwo_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_16(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-zcl_list = [i for i in range(n)]
-heapq.heapify(zcl_list)
-while zcl_list:
-    heapq.heappop(zcl_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_18(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_19(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_20(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-znw_list = [i for i in range(n)]
-heapq.heapify(znw_list)
-while znw_list:
-    heapq.heappop(znw_list)",O(n log n),O(n),O(n log n)
-"import heapq
-xzm_list = [i for i in range(n)]
-heapq.heapify(xzm_list)
-while xzm_list:
-    heapq.heappop(xzm_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_23(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-qyx_list = [i for i in range(n)]
-heapq.heapify(qyx_list)
-while qyx_list:
-    heapq.heappop(qyx_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_25(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-zxu_list = [i for i in range(n)]
-heapq.heapify(zxu_list)
-while zxu_list:
-    heapq.heappop(zxu_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_27(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_28(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_29(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_30(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-wtr_list = [i for i in range(n)]
-heapq.heapify(wtr_list)
-while wtr_list:
-    heapq.heappop(wtr_list)",O(n log n),O(n),O(n log n)
-"import heapq
-xwy_list = [i for i in range(n)]
-heapq.heapify(xwy_list)
-while xwy_list:
-    heapq.heappop(xwy_list)",O(n log n),O(n),O(n log n)
-"import heapq
-aei_list = [i for i in range(n)]
-heapq.heapify(aei_list)
-while aei_list:
-    heapq.heappop(aei_list)",O(n log n),O(n),O(n log n)
-"import heapq
-ugh_list = [i for i in range(n)]
-heapq.heapify(ugh_list)
-while ugh_list:
-    heapq.heappop(ugh_list)",O(n log n),O(n),O(n log n)
-"import heapq
-ohj_list = [i for i in range(n)]
-heapq.heapify(ohj_list)
-while ohj_list:
-    heapq.heappop(ohj_list)",O(n log n),O(n),O(n log n)
-"import heapq
-igw_list = [i for i in range(n)]
-heapq.heapify(igw_list)
-while igw_list:
-    heapq.heappop(igw_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_37(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_38(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_39(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-mdl_list = [i for i in range(n)]
-heapq.heapify(mdl_list)
-while mdl_list:
-    heapq.heappop(mdl_list)",O(n log n),O(n),O(n log n)
-"import heapq
-fiv_list = [i for i in range(n)]
-heapq.heapify(fiv_list)
-while fiv_list:
-    heapq.heappop(fiv_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_42(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-egb_list = [i for i in range(n)]
-heapq.heapify(egb_list)
-while egb_list:
-    heapq.heappop(egb_list)",O(n log n),O(n),O(n log n)
-"import heapq
-aml_list = [i for i in range(n)]
-heapq.heapify(aml_list)
-while aml_list:
-    heapq.heappop(aml_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_45(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-hko_list = [i for i in range(n)]
-heapq.heapify(hko_list)
-while hko_list:
-    heapq.heappop(hko_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_47(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-juq_list = [i for i in range(n)]
-heapq.heapify(juq_list)
-while juq_list:
-    heapq.heappop(juq_list)",O(n log n),O(n),O(n log n)
-"import heapq
-szf_list = [i for i in range(n)]
-heapq.heapify(szf_list)
-while szf_list:
-    heapq.heappop(szf_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_50(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-bqv_list = [i for i in range(n)]
-heapq.heapify(bqv_list)
-while bqv_list:
-    heapq.heappop(bqv_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_52(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-nwc_list = [i for i in range(n)]
-heapq.heapify(nwc_list)
-while nwc_list:
-    heapq.heappop(nwc_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_54(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-viz_list = [i for i in range(n)]
-heapq.heapify(viz_list)
-while viz_list:
-    heapq.heappop(viz_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_56(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_57(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-fhg_list = [i for i in range(n)]
-heapq.heapify(fhg_list)
-while fhg_list:
-    heapq.heappop(fhg_list)",O(n log n),O(n),O(n log n)
-"import heapq
-rce_list = [i for i in range(n)]
-heapq.heapify(rce_list)
-while rce_list:
-    heapq.heappop(rce_list)",O(n log n),O(n),O(n log n)
-"import heapq
-cxd_list = [i for i in range(n)]
-heapq.heapify(cxd_list)
-while cxd_list:
-    heapq.heappop(cxd_list)",O(n log n),O(n),O(n log n)
-"import heapq
-vrg_list = [i for i in range(n)]
-heapq.heapify(vrg_list)
-while vrg_list:
-    heapq.heappop(vrg_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_62(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-ghm_list = [i for i in range(n)]
-heapq.heapify(ghm_list)
-while ghm_list:
-    heapq.heappop(ghm_list)",O(n log n),O(n),O(n log n)
-"import heapq
-cfp_list = [i for i in range(n)]
-heapq.heapify(cfp_list)
-while cfp_list:
-    heapq.heappop(cfp_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_65(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_66(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-gsk_list = [i for i in range(n)]
-heapq.heapify(gsk_list)
-while gsk_list:
-    heapq.heappop(gsk_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_68(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_69(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_70(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-yxy_list = [i for i in range(n)]
-heapq.heapify(yxy_list)
-while yxy_list:
-    heapq.heappop(yxy_list)",O(n log n),O(n),O(n log n)
-"import heapq
-cec_list = [i for i in range(n)]
-heapq.heapify(cec_list)
-while cec_list:
-    heapq.heappop(cec_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_73(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_74(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_75(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_76(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_77(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_78(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_79(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-gvy_list = [i for i in range(n)]
-heapq.heapify(gvy_list)
-while gvy_list:
-    heapq.heappop(gvy_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_81(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-ejn_list = [i for i in range(n)]
-heapq.heapify(ejn_list)
-while ejn_list:
-    heapq.heappop(ejn_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_83(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-khe_list = [i for i in range(n)]
-heapq.heapify(khe_list)
-while khe_list:
-    heapq.heappop(khe_list)",O(n log n),O(n),O(n log n)
-"import heapq
-bpi_list = [i for i in range(n)]
-heapq.heapify(bpi_list)
-while bpi_list:
-    heapq.heappop(bpi_list)",O(n log n),O(n),O(n log n)
-"import heapq
-jma_list = [i for i in range(n)]
-heapq.heapify(jma_list)
-while jma_list:
-    heapq.heappop(jma_list)",O(n log n),O(n),O(n log n)
-"import heapq
-egc_list = [i for i in range(n)]
-heapq.heapify(egc_list)
-while egc_list:
-    heapq.heappop(egc_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_88(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_89(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_90(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-lrk_list = [i for i in range(n)]
-heapq.heapify(lrk_list)
-while lrk_list:
-    heapq.heappop(lrk_list)",O(n log n),O(n),O(n log n)
-"import heapq
-kuq_list = [i for i in range(n)]
-heapq.heapify(kuq_list)
-while kuq_list:
-    heapq.heappop(kuq_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_93(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_94(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-ceg_list = [i for i in range(n)]
-heapq.heapify(ceg_list)
-while ceg_list:
-    heapq.heappop(ceg_list)",O(n log n),O(n),O(n log n)
-"import heapq
-unl_list = [i for i in range(n)]
-heapq.heapify(unl_list)
-while unl_list:
-    heapq.heappop(unl_list)",O(n log n),O(n),O(n log n)
-"def merge_sort_97(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"def merge_sort_98(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort_{i}(L)
-        merge_sort_{i}(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1",O(n log n),O(n log n),O(n log n)
-"import heapq
-eqj_list = [i for i in range(n)]
-heapq.heapify(eqj_list)
-while eqj_list:
-    heapq.heappop(eqj_list)",O(n log n),O(n),O(n log n)
-"for kp in range(n):
-    for mi in range(n):
-        print(kp + mi)",O(n^2),O(n^2),O(n^2)
-"for bw in range(n):
-    for be in range(n):
-        print(bw + be)",O(n^2),O(n^2),O(n^2)
-"for kr in range(n):
-    for av in range(n):
-        print(kr + av)",O(n^2),O(n^2),O(n^2)
-"for ax in range(n):
-    for om in range(n):
-        print(ax + om)",O(n^2),O(n^2),O(n^2)
-"for jl in range(n):
-    for vw in range(n):
-        print(jl + vw)",O(n^2),O(n^2),O(n^2)
-"for fg in range(n):
-    for qp in range(n):
-        print(fg + qp)",O(n^2),O(n^2),O(n^2)
-"for ep in range(n):
-    for ir in range(n):
-        print(ep + ir)",O(n^2),O(n^2),O(n^2)
-"for il in range(n):
-    for oe in range(n):
-        print(il + oe)",O(n^2),O(n^2),O(n^2)
-"for lc in range(n):
-    for ce in range(n):
-        print(lc + ce)",O(n^2),O(n^2),O(n^2)
-"for lj in range(n):
-    for eg in range(n):
-        print(lj + eg)",O(n^2),O(n^2),O(n^2)
-"for fh in range(n):
-    for ji in range(n):
-        print(fh + ji)",O(n^2),O(n^2),O(n^2)
-"for rj in range(n):
-    for vg in range(n):
-        print(rj + vg)",O(n^2),O(n^2),O(n^2)
-"for xk in range(n):
-    for jf in range(n):
-        print(xk + jf)",O(n^2),O(n^2),O(n^2)
-"for uw in range(n):
-    for rr in range(n):
-        print(uw + rr)",O(n^2),O(n^2),O(n^2)
-"for ng in range(n):
-    for mj in range(n):
-        print(ng + mj)",O(n^2),O(n^2),O(n^2)
-"for vu in range(n):
-    for og in range(n):
-        print(vu + og)",O(n^2),O(n^2),O(n^2)
-"for lk in range(n):
-    for ul in range(n):
-        print(lk + ul)",O(n^2),O(n^2),O(n^2)
-"for ol in range(n):
-    for my in range(n):
-        print(ol + my)",O(n^2),O(n^2),O(n^2)
-"for xx in range(n):
-    for kd in range(n):
-        print(xx + kd)",O(n^2),O(n^2),O(n^2)
-"for af in range(n):
-    for tj in range(n):
-        print(af + tj)",O(n^2),O(n^2),O(n^2)
-"for mq in range(n):
-    for xi in range(n):
-        print(mq + xi)",O(n^2),O(n^2),O(n^2)
-"for yi in range(n):
-    for lh in range(n):
-        print(yi + lh)",O(n^2),O(n^2),O(n^2)
-"for vi in range(n):
-    for yo in range(n):
-        print(vi + yo)",O(n^2),O(n^2),O(n^2)
-"for xx in range(n):
-    for uy in range(n):
-        print(xx + uy)",O(n^2),O(n^2),O(n^2)
-"for co in range(n):
-    for rx in range(n):
-        print(co + rx)",O(n^2),O(n^2),O(n^2)
-"for hr in range(n):
-    for ob in range(n):
-        print(hr + ob)",O(n^2),O(n^2),O(n^2)
-"for ts in range(n):
-    for se in range(n):
-        print(ts + se)",O(n^2),O(n^2),O(n^2)
-"for vf in range(n):
-    for pf in range(n):
-        print(vf + pf)",O(n^2),O(n^2),O(n^2)
-"for ix in range(n):
-    for we in range(n):
-        print(ix + we)",O(n^2),O(n^2),O(n^2)
-"for lf in range(n):
-    for ql in range(n):
-        print(lf + ql)",O(n^2),O(n^2),O(n^2)
-"for dx in range(n):
-    for to in range(n):
-        print(dx + to)",O(n^2),O(n^2),O(n^2)
-"for fs in range(n):
-    for yt in range(n):
-        print(fs + yt)",O(n^2),O(n^2),O(n^2)
-"for gf in range(n):
-    for bj in range(n):
-        print(gf + bj)",O(n^2),O(n^2),O(n^2)
-"for dv in range(n):
-    for es in range(n):
-        print(dv + es)",O(n^2),O(n^2),O(n^2)
-"for lt in range(n):
-    for xz in range(n):
-        print(lt + xz)",O(n^2),O(n^2),O(n^2)
-"for ys in range(n):
-    for it in range(n):
-        print(ys + it)",O(n^2),O(n^2),O(n^2)
-"for eh in range(n):
-    for ia in range(n):
-        print(eh + ia)",O(n^2),O(n^2),O(n^2)
-"for vm in range(n):
-    for gd in range(n):
-        print(vm + gd)",O(n^2),O(n^2),O(n^2)
-"for bj in range(n):
-    for si in range(n):
-        print(bj + si)",O(n^2),O(n^2),O(n^2)
-"for qf in range(n):
-    for ws in range(n):
-        print(qf + ws)",O(n^2),O(n^2),O(n^2)
-"for sc in range(n):
-    for qn in range(n):
-        print(sc + qn)",O(n^2),O(n^2),O(n^2)
-"for hp in range(n):
-    for le in range(n):
-        print(hp + le)",O(n^2),O(n^2),O(n^2)
-"for df in range(n):
-    for wv in range(n):
-        print(df + wv)",O(n^2),O(n^2),O(n^2)
-"for hg in range(n):
-    for xs in range(n):
-        print(hg + xs)",O(n^2),O(n^2),O(n^2)
-"for kf in range(n):
-    for ki in range(n):
-        print(kf + ki)",O(n^2),O(n^2),O(n^2)
-"for lc in range(n):
-    for xz in range(n):
-        print(lc + xz)",O(n^2),O(n^2),O(n^2)
-"for nn in range(n):
-    for hm in range(n):
-        print(nn + hm)",O(n^2),O(n^2),O(n^2)
-"for bg in range(n):
-    for ed in range(n):
-        print(bg + ed)",O(n^2),O(n^2),O(n^2)
-"for cs in range(n):
-    for hl in range(n):
-        print(cs + hl)",O(n^2),O(n^2),O(n^2)
-"for en in range(n):
-    for yo in range(n):
-        print(en + yo)",O(n^2),O(n^2),O(n^2)
-"for tn in range(n):
-    for nf in range(n):
-        print(tn + nf)",O(n^2),O(n^2),O(n^2)
-"for kn in range(n):
-    for lq in range(n):
-        print(kn + lq)",O(n^2),O(n^2),O(n^2)
-"for mq in range(n):
-    for mp in range(n):
-        print(mq + mp)",O(n^2),O(n^2),O(n^2)
-"for lj in range(n):
-    for il in range(n):
-        print(lj + il)",O(n^2),O(n^2),O(n^2)
-"for ws in range(n):
-    for jt in range(n):
-        print(ws + jt)",O(n^2),O(n^2),O(n^2)
-"for tc in range(n):
-    for rx in range(n):
-        print(tc + rx)",O(n^2),O(n^2),O(n^2)
-"for sg in range(n):
-    for lc in range(n):
-        print(sg + lc)",O(n^2),O(n^2),O(n^2)
-"for to in range(n):
-    for iw in range(n):
-        print(to + iw)",O(n^2),O(n^2),O(n^2)
-"for kp in range(n):
-    for zh in range(n):
-        print(kp + zh)",O(n^2),O(n^2),O(n^2)
-"for ot in range(n):
-    for fp in range(n):
-        print(ot + fp)",O(n^2),O(n^2),O(n^2)
-"for uh in range(n):
-    for da in range(n):
-        print(uh + da)",O(n^2),O(n^2),O(n^2)
-"for ja in range(n):
-    for qh in range(n):
-        print(ja + qh)",O(n^2),O(n^2),O(n^2)
-"for mi in range(n):
-    for ru in range(n):
-        print(mi + ru)",O(n^2),O(n^2),O(n^2)
-"for wz in range(n):
-    for ao in range(n):
-        print(wz + ao)",O(n^2),O(n^2),O(n^2)
-"for rc in range(n):
-    for ss in range(n):
-        print(rc + ss)",O(n^2),O(n^2),O(n^2)
-"for bd in range(n):
-    for ri in range(n):
-        print(bd + ri)",O(n^2),O(n^2),O(n^2)
-"for nw in range(n):
-    for kf in range(n):
-        print(nw + kf)",O(n^2),O(n^2),O(n^2)
-"for af in range(n):
-    for ty in range(n):
-        print(af + ty)",O(n^2),O(n^2),O(n^2)
-"for kk in range(n):
-    for pq in range(n):
-        print(kk + pq)",O(n^2),O(n^2),O(n^2)
-"for jx in range(n):
-    for nx in range(n):
-        print(jx + nx)",O(n^2),O(n^2),O(n^2)
-"for ry in range(n):
-    for og in range(n):
-        print(ry + og)",O(n^2),O(n^2),O(n^2)
-"for kg in range(n):
-    for pv in range(n):
-        print(kg + pv)",O(n^2),O(n^2),O(n^2)
-"for pr in range(n):
-    for oh in range(n):
-        print(pr + oh)",O(n^2),O(n^2),O(n^2)
-"for ww in range(n):
-    for rw in range(n):
-        print(ww + rw)",O(n^2),O(n^2),O(n^2)
-"for ap in range(n):
-    for tx in range(n):
-        print(ap + tx)",O(n^2),O(n^2),O(n^2)
-"for om in range(n):
-    for mp in range(n):
-        print(om + mp)",O(n^2),O(n^2),O(n^2)
-"for rn in range(n):
-    for sa in range(n):
-        print(rn + sa)",O(n^2),O(n^2),O(n^2)
-"for qd in range(n):
-    for yq in range(n):
-        print(qd + yq)",O(n^2),O(n^2),O(n^2)
-"for sv in range(n):
-    for fo in range(n):
-        print(sv + fo)",O(n^2),O(n^2),O(n^2)
-"for bx in range(n):
-    for zj in range(n):
-        print(bx + zj)",O(n^2),O(n^2),O(n^2)
-"for ro in range(n):
-    for ri in range(n):
-        print(ro + ri)",O(n^2),O(n^2),O(n^2)
-"for bk in range(n):
-    for fk in range(n):
-        print(bk + fk)",O(n^2),O(n^2),O(n^2)
-"for sb in range(n):
-    for gm in range(n):
-        print(sb + gm)",O(n^2),O(n^2),O(n^2)
-"for rx in range(n):
-    for we in range(n):
-        print(rx + we)",O(n^2),O(n^2),O(n^2)
-"for ht in range(n):
-    for gq in range(n):
-        print(ht + gq)",O(n^2),O(n^2),O(n^2)
-"for js in range(n):
-    for zm in range(n):
-        print(js + zm)",O(n^2),O(n^2),O(n^2)
-"for rz in range(n):
-    for qa in range(n):
-        print(rz + qa)",O(n^2),O(n^2),O(n^2)
-"for oi in range(n):
-    for bt in range(n):
-        print(oi + bt)",O(n^2),O(n^2),O(n^2)
-"for pu in range(n):
-    for rs in range(n):
-        print(pu + rs)",O(n^2),O(n^2),O(n^2)
-"for rr in range(n):
-    for cd in range(n):
-        print(rr + cd)",O(n^2),O(n^2),O(n^2)
-"for yv in range(n):
-    for bk in range(n):
-        print(yv + bk)",O(n^2),O(n^2),O(n^2)
-"for sz in range(n):
-    for ru in range(n):
-        print(sz + ru)",O(n^2),O(n^2),O(n^2)
-"for wh in range(n):
-    for gp in range(n):
-        print(wh + gp)",O(n^2),O(n^2),O(n^2)
-"for gm in range(n):
-    for gt in range(n):
-        print(gm + gt)",O(n^2),O(n^2),O(n^2)
-"for dz in range(n):
-    for wo in range(n):
-        print(dz + wo)",O(n^2),O(n^2),O(n^2)
-"for pp in range(n):
-    for wk in range(n):
-        print(pp + wk)",O(n^2),O(n^2),O(n^2)
-"for qv in range(n):
-    for bl in range(n):
-        print(qv + bl)",O(n^2),O(n^2),O(n^2)
-"for pe in range(n):
-    for rj in range(n):
-        print(pe + rj)",O(n^2),O(n^2),O(n^2)
-"for hx in range(n):
-    for ya in range(n):
-        print(hx + ya)",O(n^2),O(n^2),O(n^2)
-"for mr in range(n):
-    for lp in range(n):
-        print(mr + lp)",O(n^2),O(n^2),O(n^2)
-"for ed in range(n):
-    for wv in range(n):
-        for xk in range(n):
-            _ = ed*wv*xk",O(n^3),O(n^3),O(n^3)
-"for rw in range(n):
-    for kf in range(n):
-        for xs in range(n):
-            _ = rw*kf*xs",O(n^3),O(n^3),O(n^3)
-"for ol in range(n):
-    for mr in range(n):
-        for tu in range(n):
-            _ = ol*mr*tu",O(n^3),O(n^3),O(n^3)
-"for qr in range(n):
-    for xk in range(n):
-        for hy in range(n):
-            _ = qr*xk*hy",O(n^3),O(n^3),O(n^3)
-"for wn in range(n):
-    for gy in range(n):
-        for sf in range(n):
-            _ = wn*gy*sf",O(n^3),O(n^3),O(n^3)
-"for hf in range(n):
-    for sy in range(n):
-        for jx in range(n):
-            _ = hf*sy*jx",O(n^3),O(n^3),O(n^3)
-"for um in range(n):
-    for ws in range(n):
-        for bx in range(n):
-            _ = um*ws*bx",O(n^3),O(n^3),O(n^3)
-"for ll in range(n):
-    for oa in range(n):
-        for nq in range(n):
-            _ = ll*oa*nq",O(n^3),O(n^3),O(n^3)
-"for wo in range(n):
-    for vj in range(n):
-        for tf in range(n):
-            _ = wo*vj*tf",O(n^3),O(n^3),O(n^3)
-"for we in range(n):
-    for qe in range(n):
-        for dj in range(n):
-            _ = we*qe*dj",O(n^3),O(n^3),O(n^3)
-"for tw in range(n):
-    for bf in range(n):
-        for dy in range(n):
-            _ = tw*bf*dy",O(n^3),O(n^3),O(n^3)
-"for ro in range(n):
-    for qy in range(n):
-        for sp in range(n):
-            _ = ro*qy*sp",O(n^3),O(n^3),O(n^3)
-"for to in range(n):
-    for sl in range(n):
-        for kc in range(n):
-            _ = to*sl*kc",O(n^3),O(n^3),O(n^3)
-"for bs in range(n):
-    for mk in range(n):
-        for uy in range(n):
-            _ = bs*mk*uy",O(n^3),O(n^3),O(n^3)
-"for qw in range(n):
-    for op in range(n):
-        for cj in range(n):
-            _ = qw*op*cj",O(n^3),O(n^3),O(n^3)
-"for ym in range(n):
-    for pc in range(n):
-        for bd in range(n):
-            _ = ym*pc*bd",O(n^3),O(n^3),O(n^3)
-"for sf in range(n):
-    for ce in range(n):
-        for sq in range(n):
-            _ = sf*ce*sq",O(n^3),O(n^3),O(n^3)
-"for ex in range(n):
-    for qt in range(n):
-        for mb in range(n):
-            _ = ex*qt*mb",O(n^3),O(n^3),O(n^3)
-"for xy in range(n):
-    for bn in range(n):
-        for nu in range(n):
-            _ = xy*bn*nu",O(n^3),O(n^3),O(n^3)
-"for ir in range(n):
-    for al in range(n):
-        for ua in range(n):
-            _ = ir*al*ua",O(n^3),O(n^3),O(n^3)
-"for sy in range(n):
-    for th in range(n):
-        for uc in range(n):
-            _ = sy*th*uc",O(n^3),O(n^3),O(n^3)
-"for zx in range(n):
-    for uk in range(n):
-        for rs in range(n):
-            _ = zx*uk*rs",O(n^3),O(n^3),O(n^3)
-"for zv in range(n):
-    for id in range(n):
-        for gj in range(n):
-            _ = zv*id*gj",O(n^3),O(n^3),O(n^3)
-"for xi in range(n):
-    for mu in range(n):
-        for dq in range(n):
-            _ = xi*mu*dq",O(n^3),O(n^3),O(n^3)
-"for nx in range(n):
-    for sa in range(n):
-        for hk in range(n):
-            _ = nx*sa*hk",O(n^3),O(n^3),O(n^3)
-"for kr in range(n):
-    for wd in range(n):
-        for rh in range(n):
-            _ = kr*wd*rh",O(n^3),O(n^3),O(n^3)
-"for ih in range(n):
-    for ex in range(n):
-        for sv in range(n):
-            _ = ih*ex*sv",O(n^3),O(n^3),O(n^3)
-"for fk in range(n):
-    for hy in range(n):
-        for jg in range(n):
-            _ = fk*hy*jg",O(n^3),O(n^3),O(n^3)
-"for qn in range(n):
-    for na in range(n):
-        for py in range(n):
-            _ = qn*na*py",O(n^3),O(n^3),O(n^3)
-"for nk in range(n):
-    for hh in range(n):
-        for aq in range(n):
-            _ = nk*hh*aq",O(n^3),O(n^3),O(n^3)
-"for ze in range(n):
-    for hu in range(n):
-        for ww in range(n):
-            _ = ze*hu*ww",O(n^3),O(n^3),O(n^3)
-"for fx in range(n):
-    for xq in range(n):
-        for zl in range(n):
-            _ = fx*xq*zl",O(n^3),O(n^3),O(n^3)
-"for bj in range(n):
-    for oq in range(n):
-        for hl in range(n):
-            _ = bj*oq*hl",O(n^3),O(n^3),O(n^3)
-"for hh in range(n):
-    for ip in range(n):
-        for el in range(n):
-            _ = hh*ip*el",O(n^3),O(n^3),O(n^3)
-"for cd in range(n):
-    for sm in range(n):
-        for bx in range(n):
-            _ = cd*sm*bx",O(n^3),O(n^3),O(n^3)
-"for nb in range(n):
-    for xy in range(n):
-        for gr in range(n):
-            _ = nb*xy*gr",O(n^3),O(n^3),O(n^3)
-"for tg in range(n):
-    for qe in range(n):
-        for hx in range(n):
-            _ = tg*qe*hx",O(n^3),O(n^3),O(n^3)
-"for xh in range(n):
-    for ov in range(n):
-        for rd in range(n):
-            _ = xh*ov*rd",O(n^3),O(n^3),O(n^3)
-"for dq in range(n):
-    for ln in range(n):
-        for jy in range(n):
-            _ = dq*ln*jy",O(n^3),O(n^3),O(n^3)
-"for mz in range(n):
-    for yc in range(n):
-        for sa in range(n):
-            _ = mz*yc*sa",O(n^3),O(n^3),O(n^3)
-"for dz in range(n):
-    for sq in range(n):
-        for jg in range(n):
-            _ = dz*sq*jg",O(n^3),O(n^3),O(n^3)
-"for zt in range(n):
-    for al in range(n):
-        for wh in range(n):
-            _ = zt*al*wh",O(n^3),O(n^3),O(n^3)
-"for oq in range(n):
-    for iz in range(n):
-        for vc in range(n):
-            _ = oq*iz*vc",O(n^3),O(n^3),O(n^3)
-"for dk in range(n):
-    for ep in range(n):
-        for jk in range(n):
-            _ = dk*ep*jk",O(n^3),O(n^3),O(n^3)
-"for br in range(n):
-    for gg in range(n):
-        for jg in range(n):
-            _ = br*gg*jg",O(n^3),O(n^3),O(n^3)
-"for ox in range(n):
-    for vy in range(n):
-        for qt in range(n):
-            _ = ox*vy*qt",O(n^3),O(n^3),O(n^3)
-"for le in range(n):
-    for wh in range(n):
-        for uc in range(n):
-            _ = le*wh*uc",O(n^3),O(n^3),O(n^3)
-"for xm in range(n):
-    for py in range(n):
-        for fw in range(n):
-            _ = xm*py*fw",O(n^3),O(n^3),O(n^3)
-"for cw in range(n):
-    for jn in range(n):
-        for ep in range(n):
-            _ = cw*jn*ep",O(n^3),O(n^3),O(n^3)
-"for oa in range(n):
-    for er in range(n):
-        for qm in range(n):
-            _ = oa*er*qm",O(n^3),O(n^3),O(n^3)
-"for hk in range(n):
-    for ha in range(n):
-        for ki in range(n):
-            _ = hk*ha*ki",O(n^3),O(n^3),O(n^3)
-"for jz in range(n):
-    for yx in range(n):
-        for ck in range(n):
-            _ = jz*yx*ck",O(n^3),O(n^3),O(n^3)
-"for wv in range(n):
-    for lr in range(n):
-        for jk in range(n):
-            _ = wv*lr*jk",O(n^3),O(n^3),O(n^3)
-"for re in range(n):
-    for rt in range(n):
-        for vn in range(n):
-            _ = re*rt*vn",O(n^3),O(n^3),O(n^3)
-"for ir in range(n):
-    for wq in range(n):
-        for ix in range(n):
-            _ = ir*wq*ix",O(n^3),O(n^3),O(n^3)
-"for vq in range(n):
-    for qq in range(n):
-        for so in range(n):
-            _ = vq*qq*so",O(n^3),O(n^3),O(n^3)
-"for bw in range(n):
-    for wq in range(n):
-        for rf in range(n):
-            _ = bw*wq*rf",O(n^3),O(n^3),O(n^3)
-"for eb in range(n):
-    for ex in range(n):
-        for gp in range(n):
-            _ = eb*ex*gp",O(n^3),O(n^3),O(n^3)
-"for xs in range(n):
-    for bv in range(n):
-        for qa in range(n):
-            _ = xs*bv*qa",O(n^3),O(n^3),O(n^3)
-"for ko in range(n):
-    for kt in range(n):
-        for gu in range(n):
-            _ = ko*kt*gu",O(n^3),O(n^3),O(n^3)
-"for jj in range(n):
-    for zh in range(n):
-        for rd in range(n):
-            _ = jj*zh*rd",O(n^3),O(n^3),O(n^3)
-"for lg in range(n):
-    for ik in range(n):
-        for vq in range(n):
-            _ = lg*ik*vq",O(n^3),O(n^3),O(n^3)
-"for hx in range(n):
-    for eu in range(n):
-        for ad in range(n):
-            _ = hx*eu*ad",O(n^3),O(n^3),O(n^3)
-"for va in range(n):
-    for gv in range(n):
-        for jf in range(n):
-            _ = va*gv*jf",O(n^3),O(n^3),O(n^3)
-"for uw in range(n):
-    for bl in range(n):
-        for tk in range(n):
-            _ = uw*bl*tk",O(n^3),O(n^3),O(n^3)
-"for ew in range(n):
-    for nk in range(n):
-        for ie in range(n):
-            _ = ew*nk*ie",O(n^3),O(n^3),O(n^3)
-"for hw in range(n):
-    for ya in range(n):
-        for oj in range(n):
-            _ = hw*ya*oj",O(n^3),O(n^3),O(n^3)
-"for ds in range(n):
-    for fn in range(n):
-        for iv in range(n):
-            _ = ds*fn*iv",O(n^3),O(n^3),O(n^3)
-"for ui in range(n):
-    for lp in range(n):
-        for qv in range(n):
-            _ = ui*lp*qv",O(n^3),O(n^3),O(n^3)
-"for cl in range(n):
-    for gy in range(n):
-        for ag in range(n):
-            _ = cl*gy*ag",O(n^3),O(n^3),O(n^3)
-"for fq in range(n):
-    for wv in range(n):
-        for ku in range(n):
-            _ = fq*wv*ku",O(n^3),O(n^3),O(n^3)
-"for hu in range(n):
-    for bn in range(n):
-        for sk in range(n):
-            _ = hu*bn*sk",O(n^3),O(n^3),O(n^3)
-"for tk in range(n):
-    for js in range(n):
-        for sk in range(n):
-            _ = tk*js*sk",O(n^3),O(n^3),O(n^3)
-"for dp in range(n):
-    for cx in range(n):
-        for ym in range(n):
-            _ = dp*cx*ym",O(n^3),O(n^3),O(n^3)
-"for ks in range(n):
-    for ae in range(n):
-        for xt in range(n):
-            _ = ks*ae*xt",O(n^3),O(n^3),O(n^3)
-"for mt in range(n):
-    for ao in range(n):
-        for yn in range(n):
-            _ = mt*ao*yn",O(n^3),O(n^3),O(n^3)
-"for ax in range(n):
-    for up in range(n):
-        for so in range(n):
-            _ = ax*up*so",O(n^3),O(n^3),O(n^3)
-"for qb in range(n):
-    for sa in range(n):
-        for eg in range(n):
-            _ = qb*sa*eg",O(n^3),O(n^3),O(n^3)
-"for ia in range(n):
-    for te in range(n):
-        for we in range(n):
-            _ = ia*te*we",O(n^3),O(n^3),O(n^3)
-"for it in range(n):
-    for hd in range(n):
-        for fe in range(n):
-            _ = it*hd*fe",O(n^3),O(n^3),O(n^3)
-"for au in range(n):
-    for rp in range(n):
-        for rz in range(n):
-            _ = au*rp*rz",O(n^3),O(n^3),O(n^3)
-"for rk in range(n):
-    for nr in range(n):
-        for yf in range(n):
-            _ = rk*nr*yf",O(n^3),O(n^3),O(n^3)
-"for lr in range(n):
-    for bk in range(n):
-        for oa in range(n):
-            _ = lr*bk*oa",O(n^3),O(n^3),O(n^3)
-"for bz in range(n):
-    for uv in range(n):
-        for up in range(n):
-            _ = bz*uv*up",O(n^3),O(n^3),O(n^3)
-"for hu in range(n):
-    for oz in range(n):
-        for gq in range(n):
-            _ = hu*oz*gq",O(n^3),O(n^3),O(n^3)
-"for oh in range(n):
-    for yv in range(n):
-        for xa in range(n):
-            _ = oh*yv*xa",O(n^3),O(n^3),O(n^3)
-"for iz in range(n):
-    for jv in range(n):
-        for fm in range(n):
-            _ = iz*jv*fm",O(n^3),O(n^3),O(n^3)
-"for hu in range(n):
-    for qn in range(n):
-        for xh in range(n):
-            _ = hu*qn*xh",O(n^3),O(n^3),O(n^3)
-"for ln in range(n):
-    for iq in range(n):
-        for ui in range(n):
-            _ = ln*iq*ui",O(n^3),O(n^3),O(n^3)
-"for es in range(n):
-    for uz in range(n):
-        for ah in range(n):
-            _ = es*uz*ah",O(n^3),O(n^3),O(n^3)
-"for mf in range(n):
-    for gr in range(n):
-        for qx in range(n):
-            _ = mf*gr*qx",O(n^3),O(n^3),O(n^3)
-"for pw in range(n):
-    for vf in range(n):
-        for ya in range(n):
-            _ = pw*vf*ya",O(n^3),O(n^3),O(n^3)
-"for bn in range(n):
-    for my in range(n):
-        for bc in range(n):
-            _ = bn*my*bc",O(n^3),O(n^3),O(n^3)
-"for jw in range(n):
-    for qw in range(n):
-        for ui in range(n):
-            _ = jw*qw*ui",O(n^3),O(n^3),O(n^3)
-"for hb in range(n):
-    for vz in range(n):
-        for zl in range(n):
-            _ = hb*vz*zl",O(n^3),O(n^3),O(n^3)
-"for ln in range(n):
-    for tw in range(n):
-        for ke in range(n):
-            _ = ln*tw*ke",O(n^3),O(n^3),O(n^3)
-"for ed in range(n):
-    for hg in range(n):
-        for rd in range(n):
-            _ = ed*hg*rd",O(n^3),O(n^3),O(n^3)
-"for pb in range(n):
-    for jh in range(n):
-        for pw in range(n):
-            _ = pb*jh*pw",O(n^3),O(n^3),O(n^3)
-"for se in range(n):
-    for mm in range(n):
-        for mt in range(n):
-            _ = se*mm*mt",O(n^3),O(n^3),O(n^3)
-"for ww in range(n):
-    for tz in range(n):
-        for de in range(n):
-            _ = ww*tz*de",O(n^3),O(n^3),O(n^3)
+a  =  b  +  c,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+def devolver(): return 10,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a  =  b  +  c,O(1),O(1),O(1)
+x  =  1,O(1),O(1),O(1)
+a = b + c,O(1),O(1),O(1)
+def  devolver():  return  10,O(1),O(1),O(1)
+x = 1,O(1),O(1),O(1)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  buscar(lista,  objetivo):
+  for  i  in  range(len(lista)):
+    if  lista[i]  ==  objetivo:
+      return  i
+  return  -1",O(n),O(1),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def buscar(lista, objetivo):
+ for i in range(len(lista)):
+  if lista[i] == objetivo:
+   return i
+ return -1",O(n),O(1),O(n)
+"def  imprimir_todos(lista):
+  for  item  in  lista:
+    print(item)",O(n),O(n),O(n)
+"def imprimir_todos(lista):
+ for item in lista:
+  print(item)",O(n),O(n),O(n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def busqueda_binaria(arr, x):
+ low, high = 0, len(arr)-1
+ while low <= high:
+  mid = (low + high) // 2
+  if arr[mid] == x:
+   return mid
+  elif arr[mid] < x:
+   low = mid + 1
+  else:
+   high = mid - 1",O(log n),O(1),O(log n)
+"def  busqueda_binaria(arr,  x):
+  low,  high  =  0,  len(arr)-1
+  while  low  <=  high:
+    mid  =  (low  +  high)  //  2
+    if  arr[mid]  ==  x:
+      return  mid
+    elif  arr[mid]  <  x:
+      low  =  mid  +  1
+    else:
+      high  =  mid  -  1",O(log n),O(1),O(log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  merge_sort(arr):
+  if  len(arr)  >  1:
+    mid  =  len(arr)//2
+    L  =  arr[:mid]
+    R  =  arr[mid:]
+    merge_sort(L)
+    merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def merge_sort(arr):
+ if len(arr) > 1:
+  mid = len(arr)//2
+  L = arr[:mid]
+  R = arr[mid:]
+  merge_sort(L)
+  merge_sort(R)",O(n log n),O(n log n),O(n log n)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
 "for i in range(n):
-    for j in range(n):
-        for k in range(n):
-            print(i, j, k)",O(n^3),O(n^3),O(n^3)
-"print(""hola mundo"")",O(1),O(1),O(1)
-x = 42,O(1),O(1),O(1)
-return True,O(1),O(1),O(1)
-y = x + 1,O(1),O(1),O(1)
-result = a * b,O(1),O(1),O(1)
-"print(""Done"")",O(1),O(1),O(1)
-flag = False,O(1),O(1),O(1)
-print(x),O(1),O(1),O(1)
-"z = max(5, 10)",O(1),O(1),O(1)
-is_even = (x % 2 == 0),O(1),O(1),O(1)
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  print(i, j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"def  burbuja(arr):
+  for  i  in  range(len(arr)):
+    for  j  in  range(len(arr)-1):
+      if  arr[j]>arr[j+1]:
+        arr[j],  arr[j+1]  =  arr[j+1],  arr[j]",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    print(i,  j)",O(n^2),O(n),O(n^2)
+"def burbuja(arr):
+ for i in range(len(arr)):
+  for j in range(len(arr)-1):
+   if arr[j]>arr[j+1]:
+    arr[j], arr[j+1] = arr[j+1], arr[j]",O(n^2),O(n),O(n^2)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for i in range(n):
+ for j in range(n):
+  for k in range(n):
+   print(i, j, k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"for  i  in  range(n):
+  for  j  in  range(n):
+    for  k  in  range(n):
+      print(i,  j,  k)",O(n^3),O(n^2),O(n^3)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def  fibonacci(n):
+  if  n  <=  1:
+    return  n
+  return  fibonacci(n-1)  +  fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def fibonacci(n):
+ if n <= 1:
+  return n
+ return fibonacci(n-1) + fibonacci(n-2)",O(2^n),O(2^n),O(2^n)
+"def  subconjuntos(nums,  i=0,  path=[]):
+  if  i  ==  len(nums):
+    return
+  subconjuntos(nums,  i+1,  path+[nums[i]])
+  subconjuntos(nums,  i+1,  path)",O(2^n),O(2^n),O(2^n)
+"def subconjuntos(nums, i=0, path=[]):
+ if i == len(nums):
+  return
+ subconjuntos(nums, i+1, path+[nums[i]])
+ subconjuntos(nums, i+1, path)",O(2^n),O(2^n),O(2^n)
