@@ -87,7 +87,7 @@ if __name__ == '__main__':
         print(f"→ Época {epoch} finalizada — loss promedio: {total_loss/len(loader):.4f}")
 
     # Entrada por consola
-    entrada = input("\nIngresa operaciones tipo 'push 3, push 5, pop': ")
+    entrada = input("\nIngresa operaciones tipo push y pop': ")
     try:
         ops_raw = [op.strip() for op in entrada.split(",")]
         ops = []

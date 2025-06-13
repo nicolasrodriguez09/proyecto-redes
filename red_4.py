@@ -11,21 +11,21 @@ class QueueDataset(Dataset):
         self.max_val = max_val
         self.max_seq_len = max_seq_len + 1
         self.pad_token = max_val + 2
-        self.dequeue_token = 0
+        self.desencolar_token = 0
         for _ in range(num_samples):
-            n_enqueue = random.randint(1, max_seq_len)
+            n_encolar = random.randint(1, max_seq_len)
             operations = []
             queue = []
-            for _ in range(n_enqueue):
+            for _ in range(n_encolar):
                 v = random.randint(0, max_val)
-                operations.append(self.enqueue_token(v))
+                operations.append(self.encolar_token(v))
                 queue.append(v)
-            operations.append(self.dequeue_token)
+            operations.append(self.desencolar_token)
             label = queue.pop(0) if queue else -1
             seq = operations + [self.pad_token] * (self.max_seq_len - len(operations))
             self.samples.append((torch.tensor(seq, dtype=torch.long), label))
 
-    def enqueue_token(self, value):
+    def encolar_token(self, value):
         return value + 1  
 
     def __len__(self):
@@ -53,9 +53,9 @@ class QueueRNN(nn.Module):
 def ops_to_sequence(ops, max_seq_len, pad_token):
     tokens = []
     for op in ops:
-        if op[0] == 'enqueue':
+        if op[0] == 'encolar':
             tokens.append(op[1] + 1)
-        elif op[0] == 'dequeue':
+        elif op[0] == 'desencolar':
             tokens.append(0)
     return tokens + [pad_token] * (max_seq_len - len(tokens))
 
@@ -89,25 +89,25 @@ if __name__ == '__main__':
         print(f"→ Época {epoch} finalizada — loss promedio: {total_loss/len(loader):.4f}")
 
     # Entrada por consola
-    entrada = input("\nIngresa operaciones tipo 'enqueue 3, enqueue 5, dequeue': ")
+    entrada = input("\nIngresa operaciones tipo encolar y desencolar: ")
     try:
         ops_raw = [op.strip() for op in entrada.split(",")]
         ops = []
         for op in ops_raw:
-            if op.lower().startswith("enqueue"):
+            if op.lower().startswith("encolar"):
                 _, val = op.split()
-                ops.append(("enqueue", int(val)))
-            elif op.lower().startswith("dequeue"):
-                ops.append(("dequeue",))
-        if not any(o[0] == "dequeue" for o in ops):
-            raise ValueError("Debe haber al menos una operación 'dequeue'.")
+                ops.append(("encolar", int(val)))
+            elif op.lower().startswith("desencolar"):
+                ops.append(("desencolar",))
+        if not any(o[0] == "desencolar" for o in ops):
+            raise ValueError("Debe haber al menos una operación 'desencolar'.")
 
         seq_tokens = ops_to_sequence(ops, dataset.max_seq_len, dataset.pad_token)
         input_seq = torch.tensor([seq_tokens], dtype=torch.long)
         with torch.no_grad():
             pred = torch.argmax(model(input_seq), dim=1).item()
-        ops_str = ' -> '.join(f"{op[0]}({op[1]})" if op[0]=='enqueue' else 'dequeue()' for op in ops)
+        ops_str = ' -> '.join(f"{op[0]}({op[1]})" if op[0]=='encolar' else 'desencolar()' for op in ops)
         print(f"\nOperaciones: {ops_str}")
-        print(f"Valor predicho al hacer dequeue(): {pred}")
+        print(f"Valor predicho al hacer desencolar(): {pred}")
     except Exception as e:
         print("Error en la entrada:", e)

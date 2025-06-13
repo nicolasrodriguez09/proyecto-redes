@@ -75,6 +75,5 @@ try:
     sorted_pred = nn_bubble_sort(np.array(test_list), model)
     print("Entrada:", test_list)
     print("NN-BubbleSort:", sorted_pred.tolist())
-    print("Orden real:   ", sorted(test_list))
 except ValueError:
     print("Entrada inválida. Asegúrate de ingresar solo números separados por comas.")
