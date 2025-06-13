@@ -68,7 +68,7 @@ class MultiTaskModel(nn.Module):
             'Theta': self.classifier_Theta(pooled)
         }
 
-# proceso para hacer el entrenamiento con gpu o cpu
+# impulsar entrenamiento con gpu si tiene pc con grafica nvidia
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(f"Usando dispositivo: {device}")
 model = MultiTaskModel(num_labels=len(labels)).to(device)

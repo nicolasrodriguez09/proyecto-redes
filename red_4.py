@@ -49,7 +49,7 @@ class QueueRNN(nn.Module):
         out = self.fc(h_n[-1])
         return out
 
-# Función para convertir operaciones a tokens
+# tokenizar
 def ops_to_sequence(ops, max_seq_len, pad_token):
     tokens = []
     for op in ops:
