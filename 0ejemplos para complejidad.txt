@@ -1,19 +1,24 @@
 
-
+O(n²)
 ejemplo2 = """
 for i in range(n):
     for j in range(n):
         print(i * j)
 """
+O(log n)
 ejemplo3 = """
 def suma_binaria(n):
     while n > 0:
         print(n)
         n = n // 2"""
+
+ O(1)
 ejemplo4 = """
 def obtener_primero(arr):
     return arr[0]"""
 ejemplo5 = """
+
+O(n log n)
 def merge_sort(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
@@ -39,6 +44,8 @@ def merge_sort(arr):
             j += 1
             k += 1
 """
+
+O(n³)
 ejemplo6 = """
 for i in range(n):
     for j in range(n):
@@ -46,6 +53,9 @@ for i in range(n):
             print(i, j, d)
 
 """
+
+O(n log n)
+peor caso O(n²)
 ejemplo7 = """
 def quick_sort(arr):
     if len(arr) <= 1:
@@ -56,6 +66,8 @@ def quick_sort(arr):
     right  = [x for x in arr if x > pivot]
     return quick_sort(left) + middle + quick_sort(right)
 """
+
+O(2ⁿ)
 ejemplo8 = """
 def fibonacci(n):
     if n <= 1:
@@ -63,6 +75,8 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 """
+
+O(n²)
 ejemplo9 = """
 def imprimir_pares_matriz(n):
     for i in range(n):
@@ -71,3 +85,17 @@ def imprimir_pares_matriz(n):
                 print(i, j)"""
 #print("Código:", ejemplo5)
 print("Predicción:", predecir_complejidad(ejemplo8))
+
+
+def busqueda_lineal(arr, objetivo):
+    for i, valor in enumerate(arr):
+        if valor == objetivo:
+            return i
+    return -1
+lista = [4, 2, 7, 1, 9, 3]
+buscado = 1
+indice = busqueda_lineal(lista, buscado)
+if indice != -1:
+    print(f"El elemento {buscado} se encontró en la posición {indice}.")
+else:
+    print(f"El elemento {buscado} no está en la lista.")
